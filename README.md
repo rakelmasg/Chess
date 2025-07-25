@@ -22,16 +22,6 @@ Chess Game is a complete chess implementation in C++, featuring piece movement l
 - C++14 compatible compiler.  
 - Text console environment.
 
-## Build and Run
-
-```bash
-mkdir build
-cd build
-cmake ..
-make
-./ChessGame
-```
-
 ## Usage
 Run the game and follow on-screen instructions to play a complete chess match.
 

@@ -5,8 +5,8 @@
 //------------------------------------------------------------------------------
 
 #include "GameApplication.h"
-#include "GameView.h"
-#include "GameController.h"
+#include "View/GameView.h"
+#include "Controller/GameController.h"
 
 //-----------------------------------------------------------------------------
 

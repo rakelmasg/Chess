@@ -1,6 +1,6 @@
-# Chess Game
+# Chess
 
-Chess Game is a complete chess implementation in C++, featuring piece movement logic, official rules, and game state management.
+Chess is a complete chess implementation in C++, featuring piece movement logic, official rules, and game state management.
 
 ## Key Features
 
